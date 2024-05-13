@@ -1,4 +1,4 @@
-# Advancing-SQL-Skills-with-a-Hospital-Mortality-Prediction-Project
+# Advancing-SQL-Skills-with-a-Hospital-Mortality-Project
 
 I delved into a fascinating SQL mini-project focusing on predicting in-hospital mortality for admitted patients. Here's a breakdown of my approach and key findings:
 
